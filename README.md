@@ -1,10 +1,10 @@
 # Improved Quantitative Susceptibility Mapping with Weighted Total Least Squares
 
-Matlab Codes:
+**Matlab Codes:**
 
 #Matlab Implementation of Weighted Total Least Squares Algorithm (proposed):
 
-Phantom simulations: Generate_Fig1.m
+**Phantom simulations: Generate_Fig1.m**
 
                                         Generate_Fig2.m
 
@@ -34,7 +34,7 @@ requires ---- data can be downloaded from: [http://weill.cornell.edu/mri/pages/q
 
                     viewOrthoSlices2D_phantom_view.m
 
-in vivo simulations: Generate_Fig7.m
+**in vivo simulations**: Generate_Fig7.m
 
 requires ----  data can be downloaded from: [http://www.neuroimaging.at/qsm2016/pages/qsm-challenge.php](http://www.neuroimaging.at/qsm2016/pages/qsm-challenge.php)
 
